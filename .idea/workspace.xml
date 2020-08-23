@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e8b74cf-2336-4397-9abc-2cf172251edf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Frontend/reactjwt/src/components/LoginForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/reactjwt/src/components/Nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/reactjwt/src/components/SignupForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/reactjwt/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/reactjwt/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/reactjwt/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/reactjwt/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Frontend/reactjwt" />
+  </component>
+  <component name="ProjectId" id="1gUpvtRMxO6c06Irk3Eta1Fga7F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Proxies-Aggregation-Application-master/backend" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e8b74cf-2336-4397-9abc-2cf172251edf" name="Default Changelist" comment="" />
+      <created>1598179259662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598179259662</updated>
+      <workItem from="1598179265311" duration="3691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1598181814187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598181814187" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1598179264880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598179264880" />
+  </component>
+</project>
