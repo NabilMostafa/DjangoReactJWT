@@ -18,7 +18,6 @@ class UserSerializerWithToken(serializers.ModelSerializer):
         jwt_encode_handler = api_settings.JWT_ENCODE_HANDLER
 
         payload = jwt_payload_handler(obj)
-        print(payload)
         token = jwt_encode_handler(payload)
 
         return token

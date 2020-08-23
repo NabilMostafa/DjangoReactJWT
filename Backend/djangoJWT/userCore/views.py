@@ -21,7 +21,6 @@ class UserList(APIView):
 
     def post(self, request, format=None):
         serializer = UserSerializerWithToken(data=request.data)
-        print('check4')
 
         if serializer.is_valid():
             serializer.save()
